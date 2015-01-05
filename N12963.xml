@@ -114,8 +114,9 @@
       <body>
          <div type="text">
             <div type="part">
-               <pb facs="tcp:016386_0000_0F9C714FEB96A160"/>
-               <pb facs="tcp:016386_0001_0F9C7150AC82BEB0" rendition="simple:additions"/>
+               <pb facs="unknown:016386_0000_0F9C714FEB96A160"/>
+               <pb facs="unknown:016386_0001_0F9C7150AC82BEB0"
+                   rendition="simple:additions"/>
                <head>A DECLARATION of RIGHTS, and PLAN of Government for the State of New-Hampshire.</head>
                <p>
                   <hi>WHEREAS</hi> by the tyrannical Administration of the Government of the King and Parliament of Great-Britain, this State of New-Hampshire, with the other United-States of <hi>AMERICA,</hi> have been necessitated <gap reason="illegible" extent="1 letter">
@@ -211,7 +212,7 @@
                <p>
                   <hi>Thirteenth.</hi> These Votes shall be sealed up by the Moderator, and transmitted by the Constable to one of the Justices of the Infe<g ref="char:EOLhyphen"/>rior Court of Common Pleas for the County, before the second Wednesday in December next following.</p>
                <p>
-                  <pb facs="tcp:016386_0002_0F9C71516D4850D0"/>
+                  <pb facs="unknown:016386_0002_0F9C71516D4850D0"/>
                   <hi>Fourteenth.</hi> And the said Justices of the Inferior Court shall meet together on the said second Wednesday of December annually, to count the Votes, and the Persons that have most Votes to the Number of COUNSELLORS required, shall be declared duly elected, and shall be notified by the said Justices accordingly, and a Return thereof shall be made by them into the Secretary's Office by the first Wednesday in January annually.</p>
                <p>
                   <hi>Fifthteenth.</hi> And in Case any two Persons shall have a like Number of Votes, the said Justices may determine the Choice in Favour of which they please.</p>
